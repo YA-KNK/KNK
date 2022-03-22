@@ -129,3 +129,6 @@
 
 # Fonts
 *.ttf lfs
+
+# Documentation
+*.pdf lfs
